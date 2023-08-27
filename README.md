@@ -36,8 +36,3 @@ Python, pandas, scikit-learn, matplotlib
 - The consistent shapes of clusters across months suggest stable patterns in sales behavior.
 - Both the 2-cluster and 5-cluster analyses contribute different perspectives, and the choice of clusters depends on the level of detail needed for the analysis.
 
-## GitHub Usage
-
-1. Clone the repository: `git clone [repository URL]`
-2. Install required dependencies: `pip install pandas scikit-learn matplotlib jupyter`
-3. Run the analysis notebook: `jupyter notebook notebooks/analysis.ipynb`
