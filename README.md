@@ -16,22 +16,28 @@ Python, pandas, scikit-learn, matplotlib
 2. Feature Selection
 3. K-means Clustering
 4. Visualization
-5. 
+
+## Key Findings
+
+- By using K-means clustering, we identified three distinct sales clusters: Low Sales, Moderate Sales, and High Sales.
+- The clusters reveal clear patterns in sales distribution across months, with the general shape being consistent for each month.
+- We also conducted an analysis with 2 clusters, which revealed a different perspective on the data. While the silhouette score was higher for the 2-cluster analysis, the 5-cluster analysis provided more granularity in capturing different levels of sales.
+- In the 5-cluster analysis, the colors of the clusters fluctuated across months due to the varying distribution of sales. This indicates that the clusters adapted to the data's characteristics.
+- Despite the fluctuations in colors, the overall density and shapes of the clusters remained consistent, highlighting the stability of the segmentation.
+
+## Visualizations
+
+![Cluster Scatter Plot](images/cluster_scatter.png)
+*Caption: Scatter plot showing clusters based on retail and warehouse sales.*
+
 ## Key Takeaways
 
-- Three distinct sales clusters were identified: Low Sales, Moderate Sales, and High Sales.
-- The clusters reveal clear patterns in sales distribution across months.
-- The analysis provides insights for strategic decision-making in inventory management.
+- The analysis with 5 clusters provides detailed insights into different sales levels, allowing for more targeted decision-making in inventory management.
+- The consistent shapes of clusters across months suggest stable patterns in sales behavior.
+- Both the 2-cluster and 5-cluster analyses contribute different perspectives, and the choice of clusters depends on the level of detail needed for the analysis.
 
 ## GitHub Usage
 
-1. Clone the repository: `git clone [https://github.com/MichaelCerna/Retail-and-Warehouse-Sales-Clustering.git]`
+1. Clone the repository: `git clone [repository URL]`
 2. Install required dependencies: `pip install pandas scikit-learn matplotlib jupyter`
 3. Run the analysis notebook: `jupyter notebook notebooks/analysis.ipynb`
-
-## Acknowledgments
-
-This analysis was inspired by my curiousity and motivation to become a better Data Scientist. 
-https://towardsdatascience.com/
-
-
