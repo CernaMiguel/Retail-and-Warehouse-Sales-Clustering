@@ -28,7 +28,7 @@ Python, pandas, scikit-learn, matplotlib
 ## Visualizations
 
 ![5-Cluster Scatter Plots](images/5clusters.png)
- 5-Cluster Scatters by Month for 2017-2020 plot based on retail and warehouse sales
+- 5-Cluster Scatters by Month for 2017-2020 plot based on retail and warehouse sales
 
 ## Key Takeaways
 
