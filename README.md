@@ -27,7 +27,7 @@ Python, pandas, scikit-learn, matplotlib
 
 ## Visualizations
 
-![Cluster Scatter Plot](images/cluster_scatter.png)
+![Cluster Scatter Plot](images/5clusters.png)
 *Caption: Scatter plot showing clusters based on retail and warehouse sales.*
 
 ## Key Takeaways
