@@ -25,11 +25,13 @@ Python, pandas, scikit-learn, matplotlib
 
 ## GitHub Usage
 
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone [https://github.com/MichaelCerna/Retail-and-Warehouse-Sales-Clustering.git]`
 2. Install required dependencies: `pip install pandas scikit-learn matplotlib jupyter`
 3. Run the analysis notebook: `jupyter notebook notebooks/analysis.ipynb`
 
 ## Acknowledgments
 
-This analysis was inspired by various data science tutorials and guides. Special thanks to [Resource 1] and [Resource 2] for their helpful insights.
+This analysis was inspired by my curiousity and motivation to become a better Data Scientist. 
+https://towardsdatascience.com/
+
 
