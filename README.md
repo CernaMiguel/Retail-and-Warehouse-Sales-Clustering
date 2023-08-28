@@ -30,7 +30,7 @@ Python, pandas, scikit-learn, matplotlib
 ![Initial_Centroid_Final](images/Initial_Final_Clusters.png)
 
 - Initialization and Finalization clustering (5) based on retail and warehouse sales
-![5_Initial_Final](images/5_Initial_Final.png)
+![5_Intial_Final](images/5_Intial_Final.png)
   
 - 5-Cluster Scatters for total 2017-2020 plot based on retail and warehouse sales
 ![5-Total](images/5_total.png)
