@@ -27,8 +27,14 @@ Python, pandas, scikit-learn, matplotlib
 
 ## Visualizations
 
-![5-Cluster Scatter Plots](images/5clusters.png)
+[5-Total](images/5_total.png)
+- 5-Cluster Scatters for total 2017-2020 plot based on retail and warehouse sales
+![5-By Month Cluster Scatter Plots](images/5_clusters.png)
 - 5-Cluster Scatters by Month for 2017-2020 plot based on retail and warehouse sales
+![2-Total](images/2_total.png)
+- 2-Cluster Scatters for total 2017-2020 plot based on retail and warehouse sales
+![2-By Month Cluster Scatter Plots](images/2_clusters.png)
+- 2-Cluster Scatters by Month for 2017-2020 plot based on retail and warehouse sales
 
 ## Key Takeaways
 
